@@ -39,3 +39,7 @@ If you have not used SSH to connect to a departmental server before, see our SSH
 I know that the department also has some resources available internally, but I know very little about what is available here, somewhere to start:
 
 https://www.cst.cam.ac.uk/local/sys/resources/gpu
+
+https://wiki.cam.ac.uk/cl-sys-admin/How_to_use_GPUs
+
+
